@@ -24,8 +24,9 @@ body{
 }
 
 main{
-  background-color: rgb(255, 245, 245);
   width: 100%;
+  background-color: rgb(255, 245, 245);
+  float: left;
 }
 
 footer{
@@ -87,7 +88,6 @@ p{
   font-size: 1em;
   color: black;
   margin-left: 20px;
-  max-width: 1000px;
 }
 
 #microbitHome{

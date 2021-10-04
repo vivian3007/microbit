@@ -21,12 +21,11 @@ body{
   margin: 0px; 
   width: 100%;
   font-size: 16px;
+  background-color: rgb(255, 245, 245);
 }
 
 main{
   max-width: 1000px;
-  background-color: rgb(255, 245, 245);
-  float: left;
 }
 
 footer{

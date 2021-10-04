@@ -24,7 +24,7 @@ body{
 }
 
 main{
-  width: 100%;
+  max-width: 1000px;
   background-color: rgb(255, 245, 245);
   float: left;
 }
